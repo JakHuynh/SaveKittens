@@ -11,6 +11,7 @@ namespace SaveKittens
         static void Main(string[] args)
         {
             Console.WriteLine("Saved Kats");
+            Console.WriteLine("I too saved kats");
         }
     }
 }
